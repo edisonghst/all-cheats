@@ -1,0 +1,2 @@
+javascript:css="\n@keyframes roll {\n  100%{\n    transform:rotate(359640deg)\n  }\n}\nbody {\n  animation-name: roll;\n  animation-duration: 9999s;\n  animation-iteration-count: 1;\n}\n";style=document.createElement("style");style.innerHTML=css;document.head.appendChild(style);
+
