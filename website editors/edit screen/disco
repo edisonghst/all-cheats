@@ -1,6 +1,6 @@
 javascript:(function() {
     var discoInterval = null;
-    var colors = ["red", "orange", "yellow", "green", "blue", "purple", "pink"];
+    var colors = ["cyan", "orange", "yellow", "green", "blue", "purple"];
   
     function startDisco() {
       discoInterval = setInterval(function() {
